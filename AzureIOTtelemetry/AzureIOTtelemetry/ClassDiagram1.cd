@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="UART Class represents the UART serial port on the device. It provides methods to read and write to the UART port.">
+    <Position X="0.5" Y="0.5" Height="1.052" Width="2.283" />
+  </Comment>
+  <Class Name="AzureIOTtelemetry.UART">
+    <Position X="0.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAgAQFAAgEgAAIAAAAAAAAAAAAAAICAAAAE=</HashCode>
+      <FileName>UART.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AzureIOTtelemetry.UARTstatus">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIQAAAAAAAAAgAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>UART.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
